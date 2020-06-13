@@ -1,0 +1,18 @@
+1. mkdir
+2. git clone SSH Repo_name
+3. ls -la
+4. Create and work
+5. git status
+6. git add fileName
+7. git commit -m "Commit message"
+8. git status
+9. git push origin master
+10. git diff filename : lets you check the difference/ changes
+11. git log : to check log
+
+Let's suppose you messed up some where 
+1. git log
+2. git checkout commit_id
+
+To get back to latest update
+1. git checkout master
